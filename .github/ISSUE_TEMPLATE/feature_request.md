@@ -1,8 +1,6 @@
 ---
 name: Example request
 about: Suggest a Python concept or example to add
-name: Example request
-about: Suggest a Python concept or example to add
 title: ""
 labels: ""
 assignees: ""
